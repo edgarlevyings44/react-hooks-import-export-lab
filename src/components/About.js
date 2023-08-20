@@ -1,4 +1,10 @@
 import React from "react";
+import { image } from "../data/user";
+
+// Use the image variable in the component code
+
+
+// Use the image variable in the component code
 
 function About() {
   return (
@@ -9,3 +15,5 @@ function About() {
     </div>
   );
 }
+
+export default About;
